@@ -1,0 +1,3 @@
+As the pre-trained parameters was 66MB, which is exceed the maximum storage of Github, I upload the non-pretrained version with it.
+You can simply download the pre-trained parameters form Matlab via Deep learning APP.
+Good luck!
